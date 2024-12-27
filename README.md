@@ -5,10 +5,15 @@ This is my first time trying something like this because I want to learn and exp
 Python Libraries
 ----
 import discord
+
 import pandas as pd
+
 import nest_asyncio
+
 import datetime
+
 from dotenv import load_dotenv
+
 import os
 
 Example
