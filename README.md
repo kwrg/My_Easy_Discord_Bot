@@ -19,7 +19,9 @@ import os
 Example
 ----
 Me 
+
 !homework 10/21/2024
 
 bot APP 
+
 Homework that due on Monday (10/21/2024): Biology, Computer
