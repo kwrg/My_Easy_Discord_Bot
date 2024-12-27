@@ -4,7 +4,7 @@ This is my first time trying something like this because I want to learn and exp
 
 Python Libraries
 ----
-import discord
+import discord -> Usage reference: https://discordpy.readthedocs.io/en/latest/quickstart.html
 
 import pandas as pd
 
