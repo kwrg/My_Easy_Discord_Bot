@@ -18,10 +18,5 @@ import os
 
 Example
 ----
-Me 
+![image](https://github.com/user-attachments/assets/1c48cb87-0ea4-4acf-bf9d-dd7816e74631)
 
-!homework 10/21/2024
-
-bot APP 
-
-Homework that due on Monday (10/21/2024): Biology, Computer
